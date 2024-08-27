@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 公众号：面向对象coding
-- 头条号：面向对象coding
-- 百家号：面向对象coding
 
 <!---
 lkailei/lkailei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
